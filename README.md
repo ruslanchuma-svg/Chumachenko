@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Мой первый сайт</title>
+  <title> Мой первый сайт </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
